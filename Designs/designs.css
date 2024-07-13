@@ -1,0 +1,64 @@
+.N1 ul {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  
+}
+.N1 li{
+  list-style: none;
+  text-align: center;
+  padding: 17px 24px 17px 24px;
+  
+  
+}
+.B1{
+  padding: 17px 24px 17px 24px;
+  color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 20px;
+font-weight: 600;
+line-height: 23px;
+opacity: 0.7;
+}
+.S2-1{
+  display: flex;
+flex-direction: column;
+justify-content: flex-start;
+align-items: center;
+padding: 0px;
+position:flex;
+
+}
+.S2 {
+  
+  background-image: url('../icon/Hero-bg.png');
+  height: 550px;
+   justify-content: space-evenly;
+}
+.S2-1 h2{
+  font-size: 28px;
+}
+.S2-1 p{
+  font-family: Azeret Mono;
+opacity: 10;
+color: rgb(0, 0, 0);
+font-size:large;
+
+}
+.B2{
+  padding: 21px 24px 21px 24px;
+background-color: black;
+color:white;
+font-family: Azeret Mono;
+font-size: 16px;
+opacity: 0.8;
+
+}
+.S3-0{
+  display: flex;
+flex-direction: column;
+justify-content: flex-start;
+align-items: center;
+padding: 80px 97px 80px 97px;
+
+}
